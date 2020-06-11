@@ -1,7 +1,11 @@
 import React from "react";
 
-function Landing() {
-  return <div>Landing hola</div>;
+function Landing(){
+    return(
+        <div>
+            Why Alexandria?
+        </div>
+    )
 }
 
 export default Landing;
