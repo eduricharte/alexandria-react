@@ -62,8 +62,8 @@ function Landing() {
             everyone
           </span>
           <span style={{ fontFamily: "Muli, sans-serif" }}>
-            <a className="font-bold">Alexandria</a> esta bien loco mira que
-            bonito texto
+            <a className="font-bold">Alexandria</a> is an streaming platform
+            where you can share knowledge through media you like.
           </span>
           <Button className="primary font-bold" action={() => {}}>
             Learn more
